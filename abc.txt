@@ -1,1 +1,2 @@
 #Learn kotlin or java andoid backend development
+##Learn all basic concepts from w3school
